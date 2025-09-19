@@ -3,7 +3,7 @@
 - 🌱 I have done my graduation in B.Tech (Computer Science and Engineering)
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach to me in my email -arpitanayak835@gmail.com
-- 
+  
   
 
 <!---
