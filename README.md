@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arpita12nayak
--   I have basic idea in web development and java and eager to learn more programing language and develop my skills in coding,expamding my knowledge in the world of data science
+-   I have basic idea in web development and java and eager to learn more programing language and develop my skills in coding,expanding my knowledge in the world of data science
 - 🌱 I have done my graduation in B.Tech (Computer Science and Engineering)
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach to me in my email -arpitanayak835@gmail.com
